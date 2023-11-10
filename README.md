@@ -4,7 +4,7 @@
 
 2.create an env file .The following is a sample env file.
 PORT = "3000"
-"SECRET_KEY = "b5ea141beef82853e66a7b68520994d68" //provide a key for authentication
+"SECRET_KEY = "" //provide a key for authentication
 
 3.Run the application by typing "npm start" in terminal
 
